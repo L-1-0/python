@@ -1,5 +1,3 @@
-# python
-A collection of all things Python programming
 
 # Python Resources
 ## Official Python Documentation
