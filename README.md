@@ -1,10 +1,6 @@
 # python
 A collection of all things Python programming
 
-List of Python Libraries
-
-Python Projects
-
 # Python Resources
 ## Official Python Documentation
 https://docs.python.org/3/ 
