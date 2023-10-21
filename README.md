@@ -6,7 +6,7 @@ https://docs.python.org/3/
 ## Official Python Wiki
 https://wiki.python.org/moin/FrontPage
 
-## Python Package Index
+## Official Python Package Index
 https://pypi.org/
 
 ## Web Development
