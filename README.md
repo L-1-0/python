@@ -8,12 +8,15 @@ https://wiki.python.org/moin/FrontPage
 
 ## Python Package Index
 https://pypi.org/
- 
-  
-  https://wiki.python.org/moin/FrontPage
-    https://wiki.python.org/moin/WebProgramming # Web Development with Python
-    https://wiki.python.org/moin/NumericAndScientific # Numeric and Scientific Computing with Python
-    https://wiki.python.org/moin/TkInter # Desktop GUI with TkInter
+
+## Web Development
+https://wiki.python.org/moin/WebProgramming
+
+## Numeric and Scientific Computing with Python
+https://wiki.python.org/moin/NumericAndScientific
+
+## Desktop GUI with TkInter
+https://wiki.python.org/moin/TkInter
     
   
   
