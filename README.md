@@ -17,6 +17,11 @@ https://wiki.python.org/moin/NumericAndScientific
 
 ## Desktop GUI with TkInter
 https://wiki.python.org/moin/TkInter
+
+https://mybinder.org/
+
+
+https://edube.org/learn/pe-1/python-literals-33
     
   
   
