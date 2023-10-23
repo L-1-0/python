@@ -1,13 +1,11 @@
 
-# Python Resources
-## Official Python Documentation
-https://docs.python.org/3/ 
+# Official Python Resources
 
-## Official Python Wiki
+[Official Python Documentation](https://docs.python.org/3/)
+
 [Official Python Wiki](https://wiki.python.org/moin/FrontPage/)
 
-## Official Python Package Index
-https://pypi.org/
+[Official Python Package Index](https://pypi.org/)
 
 ## Web Development
 https://wiki.python.org/moin/WebProgramming
@@ -21,7 +19,6 @@ https://wiki.python.org/moin/TkInter
 https://mybinder.org/
 
 
-https://edube.org/learn/pe-1/python-literals-33
     
   
   
