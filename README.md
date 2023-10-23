@@ -4,7 +4,7 @@
 https://docs.python.org/3/ 
 
 ## Official Python Wiki
-[Official Python Wiki](https://wiki.python.org/moin/FrontPage)
+[Official Python Wiki](https://wiki.python.org/moin/FrontPage/)
 
 ## Official Python Package Index
 https://pypi.org/
