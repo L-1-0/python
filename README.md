@@ -1,6 +1,6 @@
+[Click here to begin learning Python](https://github.com/L-1-0/python/tree/main/education)
 
 # Official Python Resources
-
 [Official Python 3 Documentation](https://docs.python.org/3/)
 
 [Official Python Wiki](https://wiki.python.org/moin/FrontPage/)
