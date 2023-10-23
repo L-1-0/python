@@ -8,10 +8,11 @@
 [Official Python Package Index](https://pypi.org/)
 
 ## Desktop GUI with TkInter
-https://wiki.python.org/moin/TkInter
+[Official TkInter](https://wiki.python.org/moin/TkInter)
 
 ## Jupyter Notebooks
 [Official Jupyter Notebooks](https://jupyter.org/)
+
 [MyBinder](https://mybinder.org/)
 
 
