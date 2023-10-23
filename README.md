@@ -1,7 +1,7 @@
 
 # Official Python Resources
 
-[Official Python Documentation](https://docs.python.org/3/)
+[Official Python 3 Documentation](https://docs.python.org/3/)
 
 [Official Python Wiki](https://wiki.python.org/moin/FrontPage/)
 
